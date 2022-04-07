@@ -1,0 +1,27 @@
+
+
+#changeMe {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    background: red;
+    margin: 20px auto;
+    border-radius: 50%;
+    box-shadow: 2px 2px 0px 2px;
+
+
+}
+
+body {
+    text-align: center;
+    background-color: rgb(53, 53, 53);
+}
+
+.button1 {
+    border: 3px solid black;
+    font-size: 20px;
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10%;
+    box-shadow: rgb(88, 88, 0) 1px 1px 1px 1px;
+}
